@@ -54,9 +54,14 @@ Here’s the basic structure of the project:
 - `/css`: Folder for all the stylesheets.
 - `/js`: Folder for all JavaScript files.
 
-## Contributing
 
+## Contributing
 We encourage contributions of all kinds—whether it’s fixing a bug 🐞, enhancing an existing feature, or adding something entirely new. And hey, we’ve also sprinkled a few intentionally left bugs and unfinished features in the Issues section, so feel free to jump in and help out!
+
+1. Create an issue if you find a bug or have a feature request or you can choose one of the existing issues.
+2. Fork the repository and create a new branch to make your changes.
+3. Once your changes are complete, submit a pull request for review and do mention the **issue number** along with PR title.
+
 
 ### Contribution Process
 
