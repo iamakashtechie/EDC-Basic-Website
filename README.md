@@ -46,9 +46,9 @@ The repository is organized in a simple structure with an HTML entry point and f
 
 We welcome all contributions, big or small! 🎉 If you have any ideas, suggestions, or improvements, feel free to:
 
-1. Create an issue if you find a bug or have a feature request.
+1. Create an issue if you find a bug or have a feature request or you can choose one of the existing issues.
 2. Fork the repository and create a new branch to make your changes.
-3. Once your changes are complete, submit a pull request for review.
+3. Once your changes are complete, submit a pull request for review and do mention the *issue number* along with PR title.
 
 ### Contribution Process
 
